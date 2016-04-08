@@ -1,0 +1,24 @@
+{
+  "generator-jhipster": {
+    "baseName": "Warriors",
+    "packageName": "com.arhs.cube.warriors",
+    "packageFolder": "com/arhs/cube/warriors",
+    "authenticationType": "session",
+    "hibernateCache": "no",
+    "clusteredHttpSession": "no",
+    "websocket": "no",
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "mysql",
+    "searchEngine": "no",
+    "useSass": false,
+    "buildTool": "maven",
+    "frontendBuilder": "gulp",
+    "enableTranslation": true,
+    "enableSocialSignIn": false,
+    "rememberMeKey": "f0d8707cf0fe9410aa4ffc4bddd708991d11f52f",
+    "testFrameworks": [
+      "gatling"
+    ]
+  }
+}
